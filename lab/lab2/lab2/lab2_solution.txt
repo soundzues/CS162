@@ -1,0 +1,30 @@
+//adit kotharii (adi kothari)
+//cs 162: lab2
+
+syntax problems:
+
+function.cpp: line 32: problem: round bracket 
+fix: use curly bracket.
+
+function.cpp: problem: strcpy, not defined in scope 
+fix: use #include<cstring>
+
+main.cpp: determinGrade(score), not declared in scope, 
+fix: the function name in main.cpp and function.cpp didn't match with that of header file. fixed by changing it in header file
+
+Buggs-
+
+function.cpp: problem: line 26, uncessary variable g created
+fix: deleting g
+
+function.cpp: problem: line 35, semicolon caused the grade to be 'c'
+fix: delete the semicolon
+
+function.cpp: problem: line 39, return value not right
+fix: replacing g with grade
+
+function.cpp: problem: line 47-48, missing break statement.
+fix: adding break statement
+
+function.cpp: problem: line 53-54, missing break statement
+fix: adding break statement

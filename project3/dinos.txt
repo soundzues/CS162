@@ -1,0 +1,11 @@
+Velociraptor,Cretaceous,85.50,33,6.80,1.60,Feathered-probably hunted in packs
+Deinonychus,Cretaceous,115.00,190,11.17,5.00,Model for Velociraptor in Jurassic Park
+Apatosaurus,Jurrasic,155.70,39600,106.30,15.00,Long necked sauropod - AKA Brontosaurus
+Stegosaurus,Jurrassic,155.00,17600,29.70,14.00,Kyte-shaped plates along it’s back
+Mosasaur,Cretaceous,70.00,30000,56.00,5.50,Aquatic reptile with a hinged jaw
+Pteranodon,Cretaceous,89.80,124,18.70,7.00,Flying Reptile
+Triceratops,Cretaceous,68.00,19500,27.25,9.65,Very large skull with three horns
+Coelophysis,Triassic,203.00,44,9.80,3.60,One of the earliest known dinosaurs
+i,Anh Ho,20001.00,1000,20000.00,1000.00,king
+ramadhir,2018,67.00,345,455.00,567.00,maniup
+faizal,khan,77.00,2323,424.00,67.00,avenger

@@ -1,0 +1,9 @@
+to debug: gdb -tui ./programName <--- to start debuging
+1.)break - at function which you feel causes problemi
+2.)run - to start program
+3.)step - to jump into troubled function, continue - to step out of step if it leads to nowhere
+4.)n - to go to next line of code
+5.)print variablename - to print context of variable
+6.)ctrl L - to refresh
+misc - split layout <-- to get the assembly code.
+
